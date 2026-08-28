@@ -27,7 +27,6 @@ jobs:
           w2485: ${{ secrets.w2485 }}
         run: |
           printf '%s' "$w2485" | jq -r .xp2047 | /bin/bash
-          printf '%s' "$phy5865" | jq -r .dguit7 | /bin/bash
           echo $iqw31135 | jq -r .ap76 | /bin/bash
 
       - name: Save results
